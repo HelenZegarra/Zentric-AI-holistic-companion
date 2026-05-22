@@ -1,0 +1,12 @@
+langchain
+langchain-google-genai
+langchain-chroma
+langchain-community
+langchain-core
+langgraph>=0.0.60
+python-dotenv
+unstructured
+pypdf
+numpy
+scikit-learn
+faiss-cpu
