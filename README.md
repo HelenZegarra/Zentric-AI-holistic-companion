@@ -68,6 +68,24 @@ Emotionally calibrated response → user
 
 **Emotional calibration** — conversation states include explicit emotional context handling. A user expressing distress routes differently than a user asking a factual question, an agent should manage positevely both types of responses to correlate to each user state.
 
+## Status
+
+Active development — core pipeline complete, 
+expanding knowledge base and refining conversation states.
+
+- [x] LangGraph state-machine architecture
+- [x] RAG pipeline with ChromaDB vector retrieval
+- [x] Google Gemini API integration
+- [x] American Diabetes Association knowledge base
+- [x] Spoonacular nutrition API integration (Test version)
+- [ ] React.js frontend
+- [x] Railway deployment
+- [ ] Expanded chronic illness coverage beyond diabetes
+- [ ] Multi-turn memory across sessions
+- [ ] Mobile-responsive UI refinement
+- [ ] Evaluation benchmarks for response accuracy
+
+
 
 ## 📦 Installation & Setup
 
