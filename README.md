@@ -35,6 +35,10 @@ Ensure you have the following installed:
 *   [Node.js](https://nodejs.org/) (v18+ recommended)
 *   Git
 
+### Live Gradio preview test Work in Progress: 
+* Live Gradio ( https://zentricwordpressembed-production.up.railway.app/)
+
+
 ### 1. Clone the Repository
 ```bash
 git clone [https://github.com/YOUR-USERNAME/zentric.git](https://github.com/YOUR-USERNAME/zentric.git)
