@@ -38,26 +38,26 @@ Zentric solves it with deterministic state-machine architecture over LangGraph, 
 
 ## Architecture
 User input
-↓
+    ↓
 React.js frontend
-↓
+    ↓
 FastAPI / Python backend
-↓
+    ↓
 LangGraph state machine
 (deterministic conversation flow — controls what
 the LLM can and cannot do at each state)
-↓
+    ↓
 ├── RAG pipeline
 │   ├── Query embedding
 │   ├── ChromaDB vector retrieval
 │   └── Curated knowledge base
 │       ├── American Diabetes Association docs
 │       └── Spoonacular nutrition API
-↓
+    ↓
 Google Gemini API
 (LLM response generation — bounded by
 retrieved context and state constraints)
-↓
+    ↓
 Emotionally calibrated response → user
 
 ## Key design decisions
