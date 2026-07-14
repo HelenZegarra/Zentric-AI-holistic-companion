@@ -1,6 +1,6 @@
 # Zentric-AI-holistic-companion
 Zentric AI Holistic bot  
-**[Live Demo](https://zentricwordpressembed-production.up.railway.app/) · 
+**[Live Demo](https://zentric-wordpress-embed.onrender.com/) · 
 [Case Study](https://helenzegarra.com/portfolio/zentric-ai-health-agent/)**
 
 ### IMPORTANT WORK IN PROGRESS
